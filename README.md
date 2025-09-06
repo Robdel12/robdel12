@@ -1,6 +1,10 @@
 ## 👋 Hey, I'm Robert DeLuca!
 
-I'm a software engineer focused on crafting amazing user experiences across the web, native apps, and APIs. My expertise is in front-end development, accessibility, and testing automation, with deep dives into Ember.js, React.js, and emerging tech like LLMs.
+> 🛠️ Currently building **[Vizzly](https://vizzly.dev)** — Visual testing. Bridge the designer-developer gap with visual precision. Real-time collaboration on actual implementations.
+
+I'm a software engineer focused on crafting delightful user experiences across the web, native apps,
+and APIs. My expertise is in front-end development, accessibility, and testing automation, with deep
+dives into Ember.js, React.js, and emerging tech like LLMs.
 
 **Got a cool idea or project? [Let's chat!](https://robertdelu.ca)**
 
@@ -11,7 +15,7 @@ I'm a software engineer focused on crafting amazing user experiences across the 
 * **Front-End Development:** Specialized in Ember.js, React.js, and robust single-page apps.
 * **Accessibility:** Passionate about inclusive design and WCAG standards.
 * **Visual & Automated Testing:** Led impactful work on visual regression testing at Percy (now BrowserStack).
-* **Emerging Technologies:** Experimenting with Large Language Models and MCPs through personal projects.
+* **Emerging Technologies:** Experimenting with Large Language Models and MCPs through side projects.
 
 ---
 
@@ -41,6 +45,8 @@ I love engaging with the dev community:
 ---
 
 ### 🌟 Current Projects
+
+* **[Vizzly](https://vizzly.dev)**: Visual testing + review for product teams.
 
 * **[DraftPatch](https://github.com/Robdel12/DraftPatch)**: A macOS app leveraging Swift to interact directly with LLMs.
 * **[Pitstop.app](https://pitstop.app)**: Track vehicle telemetry and manage maintenance easily via website and iOS app.
