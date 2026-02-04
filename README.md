@@ -48,7 +48,9 @@ I love engaging with the dev community:
 
 * **[Vizzly](https://vizzly.dev)**: Visual testing + review for product teams.
 
-* **[DraftPatch](https://github.com/Robdel12/DraftPatch)**: A macOS app leveraging Swift to interact directly with LLMs.
+* **[OrbitDock](https://github.com/Robdel12/OrbitDock)**: Mission control for AI coding agents. A native macOS app for monitoring Claude Code and Codex CLI sessions in one unified dashboard.
+* **[Snoot](https://snoot.support)**: Real-time customer chat platform built with Phoenix LiveView.
+* **[BackChannel](https://backchannel.run)**: Self-hostable, dev-first team chat. Open source soon.
 * **[Pitstop.app](https://pitstop.app)**: Track vehicle telemetry and manage maintenance easily via website and iOS app.
 * **[Tornadic.net](https://tornadic.net)**: Crowd-sourced tornado database for sharing and exploring real-world tornado data.
 
